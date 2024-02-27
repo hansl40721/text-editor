@@ -25,7 +25,7 @@
 
   Run npm run start in your ternimal and open the application in your default browser
 
-  taksi
+  ![Screenshot 2024-02-27 155550](https://github.com/hansl40721/text-editor/assets/123116520/689f9bca-7499-43ee-a3b4-7e265437493f)
 
   ## Credits 
 
